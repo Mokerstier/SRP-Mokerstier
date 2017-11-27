@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="359" height="414" viewBox="0 0 359 414">
+  <defs>
+    <radialGradient id="logo-b" cx="34.434%" r="100%" fx="34.434%" fy="50%" gradientTransform="matrix(0 .8286 -.66409 0 .676 .215)">
+      <stop offset="0%" stop-color="#1AA160"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <linearGradient id="logo-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B4EC51"/>
+      <stop offset="100%" stop-color="#429321"/>
+    </linearGradient>
+    <radialGradient id="logo-c" cx="34.434%" r="100%" fx="34.434%" fy="50%" gradientTransform="matrix(0 1 -.66409 0 .676 .156)">
+      <stop offset="0%" stop-color="#1AA160"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <linearGradient id="logo-d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B5EB45"/>
+      <stop offset="100%" stop-color="#7ED321"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(15 16)">
+    <polygon fill="url(#logo-b)" stroke="url(#logo-a)" stroke-linejoin="round" stroke-width="30" points="0 0 0 379.957 314.836 189.979"/>
+    <path fill="url(#logo-c)" d="M182.067495,213.633437 L97.7331263,255.800621 C85.8776424,261.728363 71.4614894,256.922979 65.5337474,245.067495 C63.8674822,241.734964 63,238.060251 63,234.334369 L63,150 C63,136.745166 73.745166,126 87,126 C90.7258823,126 94.4005959,126.867482 97.7331263,128.533747 L182.067495,170.700932 C193.922979,176.628674 198.728363,191.044827 192.800621,202.900311 C190.478292,207.544968 186.712152,211.311108 182.067495,213.633437 Z"/>
+    <path fill="url(#logo-d)" stroke="#417505" stroke-width="3" d="M144.584426,200.75804 L110.172541,217.963982 C105.335017,220.382744 99.452635,218.42195 97.033873,213.584426 C96.3539683,212.224616 96,210.725182 96,209.20487 L96,174.792985 C96,169.384469 100.384469,165 105.792985,165 C107.313298,165 108.812732,165.353968 110.172541,166.033873 L144.584426,183.239815 C149.42195,185.658577 151.382744,191.540959 148.963982,196.378484 C148.016376,198.273695 146.479637,199.810434 144.584426,200.75804 Z"/>
+    <path stroke="url(#logo-a)" stroke-linecap="round" stroke-width="30" d="M329.003906,382.3125 L0,174"/>
+  </g>
+</svg>
