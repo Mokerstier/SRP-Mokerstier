@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22">
+  <defs>
+    <linearGradient id="one-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B5EB45"/>
+      <stop offset="100%" stop-color="#7ED321"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="url(#one-a)" stroke-width="3" d="M3.07338384,3.50360004 C1.18407101,5.2399593 0,7.73170235 0,10.5 C0,13.2568732 1.17431812,15.7394697 3.05002896,17.4748641 C4.74405129,19.0421616 7.01016807,20 9.5,20 L9.5,20 M16.0253837,17.4043331 C17.8571042,15.6725405 19,13.2197391 19,10.5 C19,7.77069448 17.8490499,5.31020776 16.0060293,3.57741939 C14.3061026,1.97916639 12.0173996,1 9.5,1"/>
+    <polygon stroke="url(#one-a)" stroke-width="3" points="3.527 1.027 6.027 6.027 1.027 6.027" transform="rotate(41 3.527 3.527)"/>
+    <polygon stroke="url(#one-a)" stroke-width="3" points="15.527 15.027 18.027 20.027 13.027 20.027" transform="rotate(-139 15.527 17.527)"/>
+    <text fill="#B5EB45" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400">
+      <tspan x="6" y="15">1</tspan>
+    </text>
+  </g>
+</svg>

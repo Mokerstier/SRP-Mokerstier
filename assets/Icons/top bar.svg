@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="52" viewBox="0 0 360 52">
+  <defs>
+    <linearGradient id="top-bar-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#B4EC51"/>
+      <stop offset="100%" stop-color="#429321"/>
+    </linearGradient>
+    <rect id="top-bar-b" width="360" height="52"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="url(#top-bar-a)" xlink:href="#top-bar-b"/>
+    <rect width="359" height="51" x=".5" y=".5" stroke="#979797"/>
+    <text fill="#417505" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400">
+      <tspan x="70" y="33">Now playing from Favorites</tspan>
+    </text>
+  </g>
+</svg>
